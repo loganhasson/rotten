@@ -1,0 +1,2 @@
+defmodule Rotten do
+end
